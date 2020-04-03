@@ -1,5 +1,6 @@
 {
   "name": "botName",
+  "version": "0.1",
   "description": "Desc",
   "main": "bot.js",
   "scripts": {
