@@ -78,5 +78,5 @@ tweetnacl@^1.0.3:
   resolved "https://registry.npm.es.ebay.com/t/tweetnacl/_attachments/tweetnacl-1.0.3.tgz#ac0af71680458d8a6378d0d0d050ab1407d35596"
 
 ws@^7.2.1:
-  version "7.2.3"
-  resolved "https://registry.npm.es.ebay.com/w/ws/_attachments/ws-7.2.3.tgz#a5411e1fb04d5ed0efee76d26d5c46d830c39b46"
+  version "7.5.9"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.9.tgz#54fa7db29f4c7cec68b1ddd3a89de099942bb591"
